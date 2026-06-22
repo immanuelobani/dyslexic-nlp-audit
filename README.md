@@ -47,4 +47,4 @@ Open licence. No PII. No real customer data.
 ## Author
 
 **Immanuel Obani** — Data Scientist (NLP & Responsible AI)  
-[Linkendin](https://www.linkedin.com/in/immanuelobani)
+[Linkedin](https://www.linkedin.com/in/immanuelobani)
