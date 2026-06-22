@@ -5,7 +5,7 @@
 A three-experiment audit of how standard NLP tools treat dyslexic writing as input.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/dyslexic-nlp-audit/blob/main/dyslexic_nlp_audit.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/immanuelobani/dyslexic-nlp-audit/blob/main/dyslexic_nlp_audit.ipynb)
 
 ---
 
